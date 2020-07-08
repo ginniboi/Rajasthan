@@ -1,0 +1,128 @@
+*{
+  box-sizing: border-box;
+  font-family: serif;
+}
+body {
+  background-color: #ffffe6;
+}
+
+#r {
+  text-align: center;
+  font-size: 40px;
+  color: #800040;
+}
+ul {
+  list-style-type: none;
+  margin-top: 0px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  margin-right: 90px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #ffffe6;
+}
+li.lin {
+  margin-right: 0px;
+}
+
+.r1 {
+  padding-bottom: 40px;
+}
+.r2 {
+  padding-bottom: 40px;
+}
+.rp {
+  padding-bottom: 40px
+}
+.r3{
+  padding-bottom: 25px;
+}
+.r4{
+  background-image: url(https://www.tajhotels.com/content/dam/luxury/hotels/Umaid_Bhavan/images/gallery/CelebrationTable-BaradariDiningExperience-3x2.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg);
+  text-align: center;
+  font-style: oblique;
+  color: #ffffe6;
+}
+.r5{
+  margin-top: 10px;
+}
+.r8{
+  margin-top: 20px;
+}
+#pic {
+  color: #332200;
+  text-align: center;
+  font-size: 26px;
+}
+#gal {
+  color: #391313;
+  text-align: center;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#cul {
+  margin-top: 32px;
+}
+#fort {
+  margin-top: 29px;
+}
+#camel{
+  margin-top: 10px;
+}
+#palace {
+  margin-top: 10px;
+}
+#g {
+  text-align: center;
+}
+#geo {
+  margin-left: 10px;
+  margin-top: 18px;
+  margin-bottom: 19px;
+}
+#desert{
+  height: 200px;
+}
+#chambal {
+  height: 200px;
+}
+#hill {
+  height: 200px;
+}
+#pichola{
+  height: 200px;
+}
+#shri {
+  margin-top: 50px;
+  height: 350px;
+}
+#nath {
+  margin-top: 30px;
+}
+#cm {
+  color: #3d0066;
+  font-size: 28px;
+}
+p {
+  font-size: 18px;
+  font: Times;
+}
+.r7{
+  margin-top: 20px;
+}
